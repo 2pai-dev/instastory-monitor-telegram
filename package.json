@@ -4,7 +4,6 @@
   "description": "",
   "main": "collector.js",
   "dependencies": {
-    "dotenv": "^8.2.0",
     "fs-path": "0.0.25",
     "image-downloader": "^4.0.2",
     "instagram-private-api": "^1.43.3",

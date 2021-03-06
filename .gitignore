@@ -3,3 +3,5 @@ node_modules
 images/*
 session.json
 yarn.lock
+videos/*
+config.bat
